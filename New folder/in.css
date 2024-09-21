@@ -1,0 +1,171 @@
+
+body{
+    background-color: rgb(41, 52, 62);
+    color: aliceblue;
+} 
+.Header_{
+    display: flex;
+    color: aliceblue;
+    
+}
+.Manu{
+    margin-left: 200px;
+    
+}
+.Manu ul {
+    
+    display: flex;
+    gap: 30px;
+    list-style: none;  
+    margin-top: 25px;
+    text-decoration: none;  
+
+ }
+.Manu ul li a{
+     text-align: center;
+     list-style: none;
+    
+     text-decoration: none;
+     text-transform: uppercase;
+     color: aliceblue; 
+ }
+ .Manu ul li a:hover{
+    color: rgb(52, 205, 240);
+ }
+h3{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.border{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    margin-left: 250px;
+    color: aliceblue;
+    text-align: left(50px);
+    /* text-transform: capitalize; */
+
+}
+#btn {
+   
+    width: 100px;
+    height: 30px;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    background-color: rgb(52, 205, 240);
+}
+.training_Courses{
+    width: 220px;
+    height: 200px;
+    /* overflow: auto; */
+}
+
+.training_Courses_1{
+    width: 220px;
+    height: 200px;
+    /* overflow: auto; */
+    color: rgb(107, 103, 103);
+}
+
+
+.mm_{
+  
+    margin-top: 20px;
+}
+.Get_{
+    margin-top: 40px;
+    text-align: center;
+
+}
+#btn_{
+   
+    width: 150px;
+    height: 35px;
+    border-radius: 8px;
+    border-style: none;
+}
+.welcome_{
+    text-align: center;
+}
+#btn_1{
+    color: rgb(52, 205, 240);
+    width: 150px;
+    height: 35px;
+    border: 2px solid ;
+    border-radius: 8px;
+ 
+}
+#p_{
+    color: black;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+#PP{
+    margin-left: 490px;
+
+    /* text-transform: capitalize; */
+}
+#__sp{
+    margin-left: 500px;
+    font-size: small;
+}
+span{
+    margin-left: 530px;
+    font-size: small;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+} 
+p{
+    margin-left: 25px;
+    font-size: small;
+}
+hr{
+    margin-right: 150px;
+    height: 1px;
+    
+}
+.bo_der{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-color: rgb(245, 161, 130);
+}
+.bo_der i{
+    margin-top: 12px;
+    margin-left: 12px;
+}
+.bo_der_1{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-color: rgb(178, 241, 178);
+}
+.bo_der_1 i{
+    margin-top: 12px;
+    margin-left: 12px;
+}
+.bo_der_2{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-color: aliceblue;
+}
+.bo_der_2 i{
+    margin-top: 12px;
+    margin-left: 12px;
+}
+.footer{
+
+}
